@@ -1,2 +1,3 @@
 charte graphique du site : vert jaune rouge
+police : arial sans serif
 
