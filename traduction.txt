@@ -1,2 +1,3 @@
 to do = à faire
 if = si
+else = sinon
