@@ -2,3 +2,4 @@ to do = à faire
 if = si
 else = sinon
 already = deja
+freedom = liberte
