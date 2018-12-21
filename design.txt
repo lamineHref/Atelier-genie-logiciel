@@ -1,3 +1,4 @@
 charte graphique du site : vert jaune rouge
 police : arial sans serif
+logo : nom de l'hotel plus des étoiles autour du nom
 
